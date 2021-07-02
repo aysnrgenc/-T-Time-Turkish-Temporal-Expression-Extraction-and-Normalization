@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<TEXT>
+<TIMEX3 tid="t1" type="DATE" value="2018-03-05">05.03.2018</TIMEX3> - <TIMEX3 tid="t2" type="TIME" value="2018-03-05T12:58">12:58</TIMEX3>
+Çin'de siyasi tarihi değiştirecek kongre başladı 
+Çin Ulusal Halk Kongresi'nin <TIMEX3 freq="P1X" periodicity="P1Y" quant="EVERY" tid="t3" type="SET" value="P1Y">yıllık</TIMEX3> olağan oturumu <TIMEX3 tid="t4" type="DATE" value="2018-03-05">bugün</TIMEX3> başladı . 
+<TIMEX3 tid="t5" type="DURATION" value="P2W">İki hafta</TIMEX3> sürmesi beklenen oturumun en önemli gündem maddesi , devlet başkanlığı için iki dönem olan görev sınırlamasının kaldırılmasını öngören anayasa değişikliği oylaması . 
+Çin anayasasına göre devlet başkanlığı görevi , her dönemi <TIMEX3 tid="t6" type="DURATION" value="P5Y">beş yıl</TIMEX3> olmak üzere en fazla iki dönem yapılabiliyor . 
+Devlet Başkanı seçilen bir kişi toplamda <TIMEX3 tid="t7" type="DURATION" value="P10Y">10 sene</TIMEX3> bu görevi yürütebiliyor . 
+Üç bine yakın üyesi bulunan Çin Ulusal Halk Kongresi'nde bu konu ile ilgili anayasa değişikliği oylaması <TIMEX3 tid="t8" type="DATE" value="2018-03-11">11 Mart'ta</TIMEX3> yapılacak . 
+Kararın üyelerin çoğunluğunun oyunu alarak bir tartışma yaşanmadan geçmesi bekleniyor . 
+Çin Ulusal Halk Kongresi'nde aynı zamanda <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">şu andaki</TIMEX3> Devlet Başkanı Şi Cinping'in ikinci defa devlet başkanlığına resmi olarak seçilmesi bekleniyor . 
+<TIMEX3 tid="t10" type="DATE" value="2018-03-04">Pazar günü</TIMEX3> gazetecilere açıklama yapan Kongre Sözcüsü Zhang Yesui , yapılacak anayasa değişikliği ile Devlet Başkanı Şi'nin devlet başkanlığı görevinin yürüttüğü diğer görevler ile aynı koşullara sahip olmasının ve partinin Merkezi Komitesi'nin otoritesinin güçlendirilmesinin hedeflendiğini söyledi . 
+Devlet Başkanı Şi , <TIMEX3 tid="t11" type="DATE" value="2012">2012</TIMEX3><TIMEX3 beginPoint="t11" endPoint="UNKNOWN" tid="t12" type="DURATION" value="PXXXXH">2012 senesinden bu yana</TIMEX3> Çin Komünist Partisi Genel Sekreteri ile Merkezi Askeri Komisyonu başkanlığı görevlerini yürütüyor ; bu görevlerin süre sınırlaması bulunmuyor . 
+Şi <TIMEX3 tid="t13" type="DATE" value="2013">2013</TIMEX3><TIMEX3 beginPoint="t13" endPoint="UNKNOWN" tid="t14" type="DURATION" value="PXXXXH">2013 yılından bu yana</TIMEX3> devlet başkanlığı görevini yürütüyor . 
+Hükümet , hayat boyu devlet başkanlığına dönüşme ihtimali bulunduğu için endişe yaratan anayasa değişikliği hakkındaki tartışmaları özellikle sosyal medyada yakın takibe alarak bazı paylaşımları silerken , Çin Komünist Partisi'nin resmi gazetesinde yayınlanan bir yorumda yapılacak değişikliğin " liderlerin hayat boyu görevde kalmaları " anlamına gelmediğinden bahsedildi . 
+Bu anayasa değişikliği ile kurulduğu <TIMEX3 tid="t15" type="DATE" value="1949">1949</TIMEX3><TIMEX3 tid="t16" type="DATE" value="1976">1976</TIMEX3><TIMEX3 beginPoint="t15" endPoint="t16" tid="t17" type="DURATION" value="PT236664H">1949 yılından 1976'daki ölümüne kadar</TIMEX3> Çin Komünist Partisi Genel Sekreteri Mao Zedong'un yaptığı gibi bir liderlik olacağından korkuluyor . 
+
+
+id=bf2b31a81f282e05b38a231e3311b638
+
+categories=Dünya
+</TEXT>

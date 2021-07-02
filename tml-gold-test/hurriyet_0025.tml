@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEXT>
+<TIMEX3 tid="t19" type="DATE" value="2018-03-05">05.03.2018</TIMEX3> - <TIMEX3 tid="t2" type="TIME" value="2018-03-05T13:51">13:51</TIMEX3>
+FIBA Şampiyonlar Ligi'nde son 16 turu <TIMEX3 tid="t1" type="DATE" value="2018-03-06">yarın</TIMEX3> başlıyor 
+Banvit'in Fransa'nın Nanterre 92 , Beşiktaş Sompo Japan'ın Almanya'nın Medi Bayreuth ve Pınar Karşıyaka'nın Yunanistan'ın PAOK takımıyla mücadele edeceği son 16 turunda ilk maçlar <TIMEX3 tid="t2" type="DATE" value="2018-03-06">yarın</TIMEX3> ve <TIMEX3 tid="t3" type="DATE" value="2018-03-07">çarşamba günü</TIMEX3> oynanacak . 
+Rövanşları <TIMEX3 tid="t4" type="DATE" value="2018-03-13">13 Mart</TIMEX3><TIMEX3 tid="t5" type="DATE" value="2018-03-14">14 Mart</TIMEX3><TIMEX3 beginPoint="t4" endPoint="t5" tid="t6" type="DURATION" value="PT24H">13 - 14 Mart'ta</TIMEX3> yapılacak son 16 turunda , rakiplerini saf dışı bırakacaklar çeyrek finalde mücadele edecek . 
+<TIMEX3 tid="t7" type="DATE" value="2018-03-06">Yarın</TIMEX3> PAOK - Pınar Karşıyaka ve Stelmet Enea Zielona - Monaco maçlarıyla başlayacak son 16 turunda , Banvit ve Beşiktaş Sompo Japan ilk maçlarını <TIMEX3 tid="t8" type="DATE" value="2018-03-07">7 Mart Çarşamba günü</TIMEX3> deplasmanda oynayacak . 
+Son 16 turunda ilk maçların programı ( TSİ ) şöyle : 
+<TIMEX3 tid="t9" type="DATE" value="2018-03-06">Yarın</TIMEX3> : 
+<TIMEX3 tid="t10" type="TIME" value="2018-03-05T20:30">20.30</TIMEX3> PAOK - Pınar Karşıyaka 
+<TIMEX3 tid="t11" type="TIME" value="2018-03-05T20:30">20.30</TIMEX3> Stelmet Enea Zielona ( Polonya ) - Monaco ( Fransa ) 
+<TIMEX3 tid="t12" type="DATE" value="2018-03-07">7 Mart Çarşamba</TIMEX3> : 
+<TIMEX3 tid="t13" type="TIME" value="2018-03-05T20:00">20.00</TIMEX3> Neptunas ( Litvanya ) - Strasbourg ( Fransa ) 
+<TIMEX3 tid="t14" type="TIME" value="2018-03-05T20:30">20.30</TIMEX3> AEK ( Yunanistan ) - CEZ Nymburk ( Çekya ) 
+<TIMEX3 tid="t15" type="TIME" value="2018-03-05T22:00">22.00</TIMEX3> Medi Bayreuth - Beşiktaş Sompo Japan 
+<TIMEX3 tid="t16" type="TIME" value="2018-03-05T22:00">22.00</TIMEX3> EWE Baskets ( Almanya ) - MHP Riesen ( Almanya ) 
+<TIMEX3 tid="t17" type="TIME" value="2018-03-05T22:30">22.30</TIMEX3> Nanterre 92 - Banvit 
+<TIMEX3 tid="t18" type="TIME" value="2018-03-05T22:30">22.30</TIMEX3> UCAM Murcia ( İspanya ) - Iberostar ( İspanya ) 
+
+
+id=dde867cb8b4a5070c3ded0c87d1a95ca
+
+categories=Spor Arena,Basketbol
+</TEXT>
