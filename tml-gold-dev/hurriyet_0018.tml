@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<TEXT>
+<TIMEX3 tid="t1" type="DATE" value="2018-03-05">05.03.2018</TIMEX3> - <TIMEX3 tid="t2" type="TIME" value="2018-03-05T11:33">11:33</TIMEX3>
+<TIMEX3 periodicity="P1Y" quant="EVERY" tid="t3" type="SET" value="P1Y">Her yıl</TIMEX3> 2 metre kar yağardı ... 
+<TIMEX3 tid="t4" type="DATE" value="2073-03-05">55 yıl sonra</TIMEX3> bir ilk 
+ADINI kardan alan , Bingöl ile Erzurum arasındaki 1940 rakımlı ovada bulunan Karlıova ilçesine <TIMEX3 periodicity="P1Y" quant="EVERY" tid="t5" type="SET" value="XXXX-WI">her kış</TIMEX3> kalınlığı ortalama 2 metreyi bulan kar yağarken <TIMEX3 tid="t6" type="DATE" value="2018">bu yıl</TIMEX3> 20 santimi geçmedi , o da kısa sürede eridi . 
+İlçe sakinleri bu durumun <TIMEX3 tid="t7" type="DATE" value="1963">1963 yılında</TIMEX3> da yaşandığını söyledi . 
+Karlıova'ya <TIMEX3 alt_value="XXXX-FA INTERSECT P1Y" quant="EVERY" tid="t8" type="SET">her yıl sonbahar aylarında</TIMEX3> yağmaya başlayan , <TIMEX3 tid="t9" type="DATE" value="2018-SP">ilkbahar</TIMEX3><TIMEX3 beginPoint="UNKNOWN" endPoint="t9" tid="t10" type="DURATION" value="PXXXXH">ilkbahara kadar</TIMEX3> 2 metreyi bulan kar nedeniyle ilçenin Bingöl , Erzurum ve köylerle bağlantısı günlerce kesiliyor , tipi dolayısıyla günlerce evlerinde mahsur kalıyordu . 
+* Karlıova'nın arşiv fotoğrafı 
+' <TIMEX3 tid="t11" type="DATE" value="2018-SU">YAZIN</TIMEX3> KURAKLIK OLACAĞINDAN KORKUYORUZ ' 
+İlçeye <TIMEX3 tid="t12" type="DATE" value="2018-WI">bu kış</TIMEX3> yeteri kadar karın yağmaması , yağan az miktarda karın da hemen erimesi , hayvanlarını dağlara erken çıkarma fırsatı elde edenleri sevindirdi . 
+<TIMEX3 periodicity="P1Y" quant="EVERY" tid="t13" type="SET" value="XXXX-WI">Her kış</TIMEX3> yoğun kar yağışı nedeniyle eğitime sıklıkla ara verilen ilçede , <TIMEX3 tid="t14" type="DATE" value="2018-WI">bu kış</TIMEX3> ' kar tatili ' olmadı . 
+Karlıova'da belediye zabıta amiri olarak görev yapan Metin Bingöl , " İlçemizde <TIMEX3 periodicity="P1Y" quant="EVERY" tid="t15" type="SET" value="P1Y">her yıl</TIMEX3> 2 metreden fazla kar yağıyordu . Yollarımız günlerce kapalı kalıyor , okullarımız çoğu zaman fırtınadan dolayı tatil ediliyordu . <TIMEX3 tid="t16" type="DATE" value="2018">Bu yıl</TIMEX3> kar kalınlığı 20 santimi geçmedi , bu da vatandaşlarda <TIMEX3 tid="t17" type="DATE" value="2018-SU">yaz aylarında</TIMEX3> kuraklığın olacağı korkusunu yaşatıyor . Belediye olarak <TIMEX3 periodicity="P1Y" quant="EVERY" tid="t18" type="SET" value="P1Y">her yıl</TIMEX3> onlarca araç ile ilçe merkezinde karla mücadele yapıyorduk . <TIMEX3 tid="t19" type="DATE" value="2018">Bu sene</TIMEX3> 2 araç bile bize yeterli geldi " diye konuştu . 
+Karlıova sakinlerinden Übeydullah Bingöl ise böyle <TIMEX3 tid="t20" type="DATE" value="2018-WI">kışı</TIMEX3> en son <TIMEX3 tid="t21" type="DATE" value="1963-03-05">55 yıl önce</TIMEX3> geçirdiklerini belirterek , " O zamanlar da <TIMEX3 tid="t22" type="DATE" value="2018-02">Şubat</TIMEX3><TIMEX3 beginPoint="UNKNOWN" endPoint="t22" tid="t23" type="DURATION" value="PXXXXH">şubat ayına kadar</TIMEX3> hiç kar yağmamıştı " dedi . 
+<TIMEX3 tid="t24" type="DATE" value="2018-03-04/2018-03-05">SON 24 SAATTE</TIMEX3> YAŞANANLAR 
+
+
+id=8c47b71f03f4f8fb95e2dce1856fe252
+
+categories=Haberler,Gündem
+</TEXT>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<TEXT>
+<TIMEX3 tid="t1" type="DATE" value="2018-03-05">05.03.2018</TIMEX3> - <TIMEX3 tid="t2" type="TIME" value="2018-03-05T11:30">11:30</TIMEX3>
+Bu fotoğraf <TIMEX3 tid="t3" type="DATE" value="2018-03-05">bugün</TIMEX3> Türkiye'de çekildi ! 
+300 kişiye ulaşılamıyor 
+Bartın Kirazlı Barajı'nda suların aşırı yükselmesi sonucu suların kapattığı yollar bazı mahallelere ulaşımın engellenmesine neden oldu . 
+Baraj sularının yükselmesi nedeniyle 300 kişiye ulaşamadıklarını söyleyen Derecik Köyü Muhtarı Necmi Alkız , " <TIMEX3 tid="t4" type="TIME" value="2018-03-04TEV">Dün akşam saatlerinde</TIMEX3> köyümüzün üç mahallesine giden yol , baraj suları nedeniyle sular altında kaldı . Su seviyesi o kadar yükseldi ki , suyun direk tellerine değmesi sonucu <TIMEX3 tid="t5" type="TIME" value="2018-03-05TNI">gece</TIMEX3> boyunca patlamalar oldu . Şimdi direkler de sular altında . Üç mahallede en az 300 kişi <TIMEX3 tid="t6" type="DATE" value="2018-03-04TNI">dün gece</TIMEX3><TIMEX3 beginPoint="t6" endPoint="UNKNOWN" tid="t7" type="DURATION" value="PXXXXH">dün geceden bu yana</TIMEX3> elektriksiz kaldı , suları ve ekmekleri yok . Birkaç arkadaşım beni aradı , yardım istiyorlar . Aramadığım , derdimi anlatmadığım yer kalmadı " dedi . 
+Yağmurun çok şiddetli yağmaya devam ettiğini belirten Alkız , " Yükseklerde karlar da bu yağmurla eridi . Barajda iki tane tünelden su tahliyesi yapıldığını söylediler . Ancak su azalmıyor , her geçen saat sular hızla yükseliyor . Tahliye ettiklerini söyledikleri suyun , on kat fazlası yukarıdan geliyor . Köylüler muhtar olduğum için benim çözüm üretmemi istiyor . Ben de devletimin yetkililerini aradım . Devlet Su İşleri halledecek deniliyor ama yapılan bir şey yok . Barajın tahliye kapakları olmaz mı ? Birileri sesimizi duysun , AFAD buraya geldi . Biz nasıl bekliyorsak onlar da burada bekliyor . Devletin botu , teknesi yok mu ? Oradaki insanlara en azından ekmek ve su götürelim " diye konuştu . 
+Öte yandan , Kirazlı Barajı'nda su tahliyesi için kullanılan iki tünelden bir tanesin çalıştırılamaması nedeniyle , su tahliyesinin istenilen oranda yapılamadığı ve su seviyesinin de bu sebepten dolayı kontrolsüz şekilde yükseldiği öğrenildi . 
+
+
+id=8f6d1596fb4fb810dc0d5bb5e341bccc
+
+categories=Haberler,Gündem
+</TEXT>

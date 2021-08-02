@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<TEXT>
+<TIMEX3 tid="t1" type="DATE" value="2018-03-19">19.03.2018</TIMEX3> - <TIMEX3 tid="t2" type="TIME" value="2018-03-19T12:36">12:36</TIMEX3>
+İstanbullular dikkat ! 
+Meteoroloji'den <TIMEX3 tid="t3" type="TIME" value="2018-03-18TXX">son dakika</TIMEX3> fırtına uyarısı 
+METEOROLOJİ Genel Müdürlüğü'nden yapılan açıklama şöyle : 
+" <TIMEX3 tid="t4" type="TIME" value="2018-03-19TNI">Bu gece saatlerinden itibaren</TIMEX3> ülkemizin kuzeybatı kesimlerinde etkisini artırmaya başlayacak olan güney ve güneybatılı ( lodos ) yönlerden rüzgârın , <TIMEX3 tid="t5" type="TIME" value="2018-03-20TEV">yarın ( salı ) akşam saatlerine</TIMEX3> kadar Marmara'nın güney ve doğusu ( İstanbul , Kocaeli , Sakarya , Yalova , Bursa , Balıkesir , Çanakkale ve Bilecik ) , İç Ege ve Göller Yöresi ( Kütahya , Uşak , Afyonkarahisar ve Isparta ) , İç Anadolu'nun batısı ( Ankara , Eskişehir , Konya ) ile Batı Karadeniz'in iç kesimlerinde ( Bolu , Karabük ve Kastamonu ) kuvvetli ve zaman zaman fırtına ( 50 - 70 km / sa ) şeklinde esmesi beklendiğinden meydana gelebilecek olumsuzluklara ( soba ve doğalgaz kaynaklı baca gazı zehirlenmeleri , ağaç ve direk devrilmesi , çatı uçması , ulaşımda aksamalar ) karşı dikkatli ve tedbirli olunması gerekmektedir . " 
+<TIMEX3 tid="t6" type="DATE" value="2018-03-18/2018-03-19">SON 24 SAATTE</TIMEX3> YAŞANANLAR 
+
+
+id=970ec83fe4a0e3f4224ab7af4d77a6f0
+
+categories=Haberler,Gündem
+</TEXT>

@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<TEXT>
+<TIMEX3 tid="t1" type="DATE" value="2018-03-05">05.03.2018</TIMEX3> - <TIMEX3 tid="t2" type="TIME" value="2018-03-05T10:00">10:00</TIMEX3>
+<TIMEX3 tid="t3" type="TIME" value="2018-03-04TXX">Son dakika</TIMEX3> ... 
+<TIMEX3 tid="t4" type="DATE" value="2018-02">Şubat ayı</TIMEX3> enflasyon rakamları açıklandı 
+TÜFE'de <TIMEX3 tid="t5" type="DATE" value="2018-02">2018 yılı Şubat ayında</TIMEX3> <TIMEX3 tid="t6" type="DATE" value="2018-02">bir önceki aya</TIMEX3> göre yüzde 0 , 73 , <TIMEX3 tid="t7" type="DATE" value="2017-12">bir önceki yılın Aralık ayına</TIMEX3> göre yüzde 1 , 76 , <TIMEX3 tid="t8" type="DATE" value="2017-03">bir önceki yılın aynı ayına</TIMEX3> göre yüzde 10,26 ve <TIMEX3 tid="t9" type="DURATION" value="P12M">on iki aylık</TIMEX3> ortalamalara göre yüzde 11,23 artış gerçekleşti . 
+<TIMEX3 freq="P1X" periodicity="P1M" quant="EVERY" tid="t10" type="SET" value="P1M">AYLIK</TIMEX3> EN YÜKSEK ARTIŞ YÜZDE 2,57 İLE SAĞLIK GRUBUNDA OLDU 
+Ana harcama grupları itibariyle <TIMEX3 tid="t11" type="DATE" value="2018-02">2018 yılı Şubat ayında</TIMEX3> endekste yer alan gruplardan , gıda ve alkolsüz içeceklerde yüzde 2 , 24 , eğlence ve kültürde yüzde 1 , 89 , ev eşyasında yüzde 1,23 ve lokanta ve otellerde yüzde 0,95 artış gerçekleşti . 
+<TIMEX3 freq="P1X" periodicity="P1M" quant="EVERY" tid="t12" type="SET" value="P1M">AYLIK</TIMEX3> DÜŞÜŞ GÖSTEREN TEK GRUP YÜZDE 4,09 İLE GİYİM VE AYAKKABI OLDU 
+Ana harcama grupları itibariyle <TIMEX3 tid="t13" type="DATE" value="2018-02">2018 yılı Şubat ayında</TIMEX3> endekste yer alan gruplardan sadece giyim ve ayakkabı grubunda yüzde 4,09 oranında düşüş gerçekleşti . 
+<TIMEX3 freq="P1X" periodicity="P1Y" quant="EVERY" tid="t14" type="SET" value="P1Y">YILLIK</TIMEX3> EN FAZLA ARTIŞ YÜZDE 15,66 İLE EV EŞYASI GRUBUNDA GERÇEKLEŞTİ 
+TÜFE'de , <TIMEX3 tid="t15" type="DATE" value="2017-03">bir önceki yılın aynı ayına</TIMEX3> göre ulaştırma yüzde 13 , 19 , giyim ve ayakkabı yüzde 11 , 77 , lokanta ve oteller yüzde 11,53 ve eğitim yüzde 10,88 ile artışın yüksek olduğu diğer ana harcama gruplarıdır . 
+<TIMEX3 freq="P1X" periodicity="P1M" quant="EVERY" tid="t16" type="SET" value="P1M">AYLIK</TIMEX3> EN YÜKSEK ARTIŞ YÜZDE 1,12 İLE TR83 ( SAMSUN , TOKAT , ÇORUM , AMASYA ) ' DA OLDU 
+İstatistiki Bölge Birimleri Sınıflaması ( İBBS ) 2. Düzey'de bulunan 26 bölge içinde , <TIMEX3 tid="t17" type="DATE" value="2017-12">bir önceki yılın Aralık ayına</TIMEX3> göre en yüksek artış yüzde 2,57 ile TR62 ( Adana , Mersin ) bölgesinde , <TIMEX3 tid="t18" type="DATE" value="2017-03">bir önceki yılın aynı ayına</TIMEX3> göre en yüksek artış yüzde 11,55 ile TR31 ( İzmir ) bölgesinde ve <TIMEX3 tid="t19" type="DURATION" value="P12M">on iki aylık</TIMEX3> ortalamalara göre en yüksek artış yüzde 12,73 ile TRC1 ( Gaziantep , Adıyaman , Kilis ) bölgesinde gerçekleşti . 
+<TIMEX3 tid="t20" type="DATE" value="2018-02">Şubat 2018'de</TIMEX3> endekste kapsanan 407 maddeden ; 32 maddenin ortalama fiyatlarında değişim olmazken , 269 maddenin ortalama fiyatlarında artış , 106 maddenin ortalama fiyatlarında ise düşüş gerçekleşti . 
+Tüketici fiyat endeksi , <TIMEX3 tid="t21" type="DATE" value="2018-02">Şubat 2018</TIMEX3> 
+[ <TIMEX3 tid="t22" type="DATE" value="2003">2003</TIMEX3> = 100 ] 
+MERKEZ BANKASI <TIMEX3 tid="t23" type="DATE" value="2018">2018</TIMEX3> ENFLASYONUNU YÜZDE 7.9 OLARAK TAHMİN ETTİ 
+TÜFE'de <TIMEX3 tid="t24" type="DATE" value="2018-02">şubat ayında</TIMEX3> yüzde 0.50 artış beklenirken , <TIMEX3 mod="LATE" tid="t25" type="DATE" value="2018">yıl sonu</TIMEX3> beklentisi yüzde 9.15 olarak açıklandı . 
+Merkez Bankası ( TCMB ) <TIMEX3 tid="t26" type="DATE" value="2018">yılın</TIMEX3> ilk enflasyon raporunda enflasyonu düşürmeye odaklı ve sıkı bir politika duruşu altında , enflasyonun yüzde 5 hedefine kademeli olarak yakınsayacağı , <TIMEX3 mod="LATE" tid="t27" type="DATE" value="2018">2018 yıl sonunda</TIMEX3> yüzde 7.9 olarak gerçekleşeceği , <TIMEX3 mod="LATE" tid="t28" type="DATE" value="2019">2019 yıl sonunda</TIMEX3> yüzde 6.5'e geriledikten sonra orta vadede yüzde 5 düzeyinde istikrar kazanacağı öngördü . 
+MERKEZ BANKALARI VE ABD İSTİHDAMI 
+<TIMEX3 tid="t29" type="DATE" value=“2018-W10">Bu hafta</TIMEX3> doların hareketinde etkili olacak yoğun veri akışı bulunuyor . 
+Türkiye Cumhuriyet Merkez Bankası'nın <TIMEX3 tid="t30" type="DATE" value="2018-03-07">Çarşamba günkü</TIMEX3> faiz kararı da <TIMEX3 tid="t31" type="DATE" value=“2018-W10">haftanın</TIMEX3> öne çıkan gelişmeleri arasında . 
+<TIMEX3 tid="t32" type="DATE" value="2018-03-08">Perşembe günü</TIMEX3> Avrupa Merkez Bankası'nın faiz kararı , <TIMEX3 tid="t33" type="DATE" value="2018-03-09">Cuma günü</TIMEX3> de ABD'de tarım dışı istihdam ve <TIMEX3 tid="t34" type="DURATION" value="PT1H">saatlik</TIMEX3> ücret verileri takip edilecek . 
+<TIMEX3 tid="t35" type="DATE" value="2018-03-04/2018-03-05">SON 24 SAATTE</TIMEX3> YAŞANANLAR 
+
+
+id=199d8448b914436f62780885de3f59d1
+
+categories=Haberler,Ekonomi
+</TEXT>

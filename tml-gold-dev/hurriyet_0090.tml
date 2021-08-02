@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<TEXT>
+<TIMEX3 tid="t1" type="DATE" value="2018-03-19">19.03.2018</TIMEX3> - <TIMEX3 tid="t2" type="TIME" value="2018-03-19T11:14">11:14</TIMEX3>
+Dünyada <TIMEX3 tid="t3" type="DURATION" value="P60Y">60 yaş</TIMEX3> ve üstü 962 milyon kişi yaşıyor 
+Birleşmiş Milletler Ekonomik ve Sosyal İşler Departmanı ( UN DESA ) verilerine göre , <TIMEX3 tid="t4" type="DATE" value="2017">2017</TIMEX3><TIMEX3 beginPoint="t4" endPoint="UNKNOWN" tid="t5" type="DURATION" value="PXXXXH">2017 itibarıyla</TIMEX3> <TIMEX3 tid="t6" type="DURATION" value="P60Y">60 yaş</TIMEX3> ve üstü 962 milyon kişi , küresel nüfusun yaklaşık yüzde 13'ünü oluşturdu . 
+<TIMEX3 tid="t7" type="DURATION" value="P60Y">60 yaş</TIMEX3> ve üstü küresel nüfus , <TIMEX3 tid="t8" type="DATE" value=“1980”>1980'de</TIMEX3> 382 milyondu . 
+Bu sayı , <TIMEX3 tid="t9" type="DATE" value=“2017”>2017'de</TIMEX3> iki kattan fazla artarak 962 milyona yükseldi . 
+Bu kişilerin üçte ikisinden fazlasının gelişmekte olan bölgelerde yaşadığı belirtiliyor . 
+<TIMEX3 tid="t10" type="DATE" value=“2017”>2017'de</TIMEX3> her 8 kişiden biri <TIMEX3 tid="t11" type="DURATION" value="P60Y">60 yaş</TIMEX3> ve üstüyken <TIMEX3 tid="t12" type="DATE" value=“2020”>2020'de</TIMEX3> her 5 kişiden birinin <TIMEX3 tid="t13" type="DURATION" value="P60Y">60 yaş</TIMEX3> ve üstü olması bekleniyor . 
+<TIMEX3 tid="t14" type="DATE" value=“2017”>Geçen yıl</TIMEX3> 80 veya daha ileri yaştaki kişilerin sayısı ise 137 milyon olarak kayıtlara geçti . 
+Bu rakamın , <TIMEX3 tid="t15" type="DATE" value=“2050”>2050'de</TIMEX3> 425 milyon olması öngörülüyor . 
+<TIMEX3 tid="t16" type="DATE" value="2050">2050</TIMEX3><TIMEX3 beginPoint="UNKNOWN" endPoint="t16" tid="t17" type="DURATION" value="PXXXXH">2050'ye kadar</TIMEX3> 2,1 milyara ulaşması beklenen yaşlı nüfusun <TIMEX3 tid="t18" type="DATE" value="2030">2030</TIMEX3><TIMEX3 beginPoint="UNKNOWN" endPoint="t18" tid="t19" type="DURATION" value="PXXXXH">2030'a gelmeden</TIMEX3> <TIMEX3 alt_value="P0S/P9Y" tid="t20" type="DURATION">0 ila 9 yaş</TIMEX3> çocuk nüfusunu , <TIMEX3 tid="t21" type="DATE" value="2050">2050</TIMEX3><TIMEX3 beginPoint="UNKNOWN" endPoint="t21" tid="t22" type="DURATION" value="PXXXXH">2050'ye kadar</TIMEX3> da <TIMEX3 alt_value="P10Y/P24Y" tid="t23" type="DURATION">10 ila 24 yaş</TIMEX3> genç nüfusu geçeceği tahmin ediliyor . 
+Yaşlı nüfusun , gelişmiş ülkelerde daha fazla olmak üzere tüm dünyada artmasına , doğurganlıktaki düşüş , tıptaki ilerlemeler ve demografik geçişi karakterize eden hayatta kalmadaki iyileşme gibi etkenler neden oluyor . 
+<TIMEX3 tid="t24" type="DATE" value="2017">2017</TIMEX3><TIMEX3 beginPoint="t24" endPoint="UNKNOWN" tid="t25" type="DURATION" value="PXXXXH">2017 itibarıyla</TIMEX3> Afrika'da 68,7 milyon , Asya'da 549,2 milyon , Avrupa'da 183 milyon , Kuzey Amerika'da 78,4 milyon , Latin Amerika ve Karayipler'de 76 milyon , Okyanusya'da ise 6,9 milyon <TIMEX3 tid="t26" type="DURATION" value="P60Y">60 yaş</TIMEX3> ve üstü kişi yaşıyor . 
+Afrika'da <TIMEX3 tid="t27" type="DATE" value="2017">2017</TIMEX3><TIMEX3 beginPoint="t27" endPoint="UNKNOWN" tid="t28" type="DURATION" value="PXXXXH">2017 itibarıyla</TIMEX3> yaklaşık 69 milyon olan <TIMEX3 tid="t29" type="DURATION" value="P60Y">60 yaş</TIMEX3> ve üstü nüfusun , <TIMEX3 tid="t30" type="DATE" value=“2050”>2050'de</TIMEX3> üç kattan fazla artarak yaklaşık 226 milyona yükselmesi bekleniyor . 
+Latin Amerika ve Karayipler'de <TIMEX3 tid="t31" type="DATE" value=“2017”>geçen yıl</TIMEX3> 76 milyon olan yaşlı nüfusun da <TIMEX3 tid="t32" type="DATE" value=“2050”>2050'de</TIMEX3> iki kattan fazla artarak 198 milyon olacağı tahmin ediliyor . 
+<TIMEX3 tid="t33" type="DATE" value="2017">2017</TIMEX3><TIMEX3 beginPoint="t33" endPoint="UNKNOWN" tid="t34" type="DURATION" value="PXXXXH">2017 itibarıyla</TIMEX3> 549 milyondan fazla yaşlı nüfusa sahip Asya'da bu rakamın <TIMEX3 tid="t35" type="DATE" value=“2050”>2050'de</TIMEX3> yaklaşık 1,3 milyara çıkması öngörülüyor . 
+En az artışın beklendiği Avrupa'da 183 milyon olan yaşlı nüfusun <TIMEX3 tid="t36" type="DATE" value=“2050”>2050'de</TIMEX3> 247,2 milyona yükselmesi ve Kuzey Amerika'da yaklaşık 78,5 milyon olan yaşlı nüfusun <TIMEX3 tid="t37" type="DATE" value=“2050”>2050'de</TIMEX3> yaklaşık 123 milyon , Okyanusya'da yaklaşık 7 milyon olan yaşlı nüfusun ise <TIMEX3 tid="t38" type="DATE" value=“2050”>2050'de</TIMEX3> 13,3 milyon olması bekleniyor . 
+YAŞLILARIN ÜÇTE İKİSİ GELİŞMEKTE OLAN BÖLGELERDE YAŞIYOR 
+Yaşlı nüfusun üçte ikisi , gelişmekte olan ülkelerde yaşıyor ve sayıları gelişmiş ülkelerdekine oranla daha hızlı büyüyor . 
+<TIMEX3 tid="t39" type="DATE" value=“2050”>2050'ye</TIMEX3> gelindiğinde , dünyadaki yaklaşık her 10 yaşlı kişiden 8'inin gelişmekte olan ülkelerde yaşaması bekleniyor . 
+<TIMEX3 tid="t40" type="DATE" value="2017">2017</TIMEX3><TIMEX3 tid="t41" type="DATE" value="2050">2050</TIMEX3><TIMEX3 beginPoint="t40" endPoint="t41" tid="t42" type="DURATION" value="PT289272H">2017 ile 2050 arasında</TIMEX3> , gelişmekte olan bölgelerde <TIMEX3 tid="t43" type="DURATION" value="P60Y">60 yaş</TIMEX3> ve üstü kişilerin sayısının , iki kattan fazla artarak 652 milyondan 1,7 milyara çıkması bekleniyor . 
+<TIMEX3 tid="t44" type="DATE" value=“2050”>2050'de</TIMEX3> yaşlıların , Avrupa'daki nüfusun yüzde 35'ini , Kuzey Amerika'daki nüfusun yüzde 28'ini , Latin Amerika ve Karayipler'deki nüfusun yüzde 25'ini , Asya'daki nüfusun yüzde 24'ünü , Okyanusya'dakinin yüzde 23'ünü ve Afrika'dakinin yüzde 9'unu oluşturacağı sanılıyor . 
+HOLLANDA'DA YAŞLILARIN YÜZDE 93'TEN FAZLASI " BAĞIMSIZ " YAŞIYOR 
+143 ülke ve bölgeden edinilen verilere göre , yalnız ya da eşiyle " bağımsız " yaşayan <TIMEX3 tid="t45" type="DURATION" value="P60Y">60 yaş</TIMEX3> ve üstü kişilerin oranı Afganistan'da yüzde 2,3 iken , Hollanda'da yüzde 93,4. Hem Afrika'da hem de Avrupa'da , yaşlı kadınların yalnız yaşama oranı yaşlı erkeklerden iki kat daha fazla . 
+Afganistan , Tacikistan ve Pakistan'da , <TIMEX3 tid="t46" type="DURATION" value="P60Y">60 yaş</TIMEX3> ve üstü kişilerin yüzde 90'ından fazlası çocuklarıyla yaşıyor . 
+Hollanda ve Almanya'da ise bu oran , yüzde 10'dan daha az . 
+
+
+id=10b6af572b6396c7f5d3ecb8fd544c4a
+
+categories=Dünya
+</TEXT>

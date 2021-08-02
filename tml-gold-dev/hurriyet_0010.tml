@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<TEXT>
+<TIMEX3 tid="t1" type="DATE" value="2018-03-05">05.03.2018</TIMEX3> - <TIMEX3 tid="t2" type="TIME" value="2018-03-05T11:15">11:15</TIMEX3>
+Sadece <TIMEX3 tid="t3" type="DURATION" value="P1D">bir gün</TIMEX3> evli kaldı ... 
+Yaşadıkları akıl almaz 
+AKILLARA durgunluk veren olay İstanbul'da yaşandı . 
+İddiaya göre , <TIMEX3 tid="t4" type="DURATION" value="P28Y">28 yaşındaki</TIMEX3> Atakan Varlı <TIMEX3 tid="t5" type="DATE" value="2015">2015 yılında</TIMEX3> Kübra isimli bir kadınla tanıştı ve ikili , hayatlarını birleştirme kararı aldı . 
+Önce nişan yapıldı , aileler tanıştı ve nikâh kıyıldı . 
+Tekirdağ Çorlu'da düğün yapılacaktı ama nikâhtan sonra genç çift yüz yüze bile görüşemedi . 
+<TIMEX3 tid="t6" type="DATE" value="2018-03-12">Bir hafta sonra</TIMEX3> ise gencin eline boşanma tebligatı ulaştı . 
+Kendini bir anda mahkemede bulan genç , verilen kararla ikinci kez yıkıldı . 
+<TIMEX3 tid="t7" type="DURATION" value="P1D">Bir gün</TIMEX3> evli kaldığı ve en son nikâhta gördüğü eşine ayda 500 lira nafaka ödemesine karar verildi . 
+İddiaya göre , kayınpederi ise 100 bin lirasını çaldı . 
+' BENİ ALDATTIĞINI GÖRDÜM ' 
+Nikâhtan sonra eşini hiç görmediğini söyleyen Varlı , " Nikâhtan sonra kızı hiç görmedim . Araştırmaya başladım , beni aldattığını gördüm . Benimle nikâhlı olduğu halde farklı erkeklerle konuşmalarını yakaladım . Düşünün , <TIMEX3 tid="t8" type="DURATION" value="P1D">bir gün</TIMEX3> evli kaldım , <TIMEX3 alt_value="P1D-#2" tid="t9" type="DATE">ikinci günü</TIMEX3> çekti gitti . Nikâhı kıydıktan sonra hiç görmedim . Üstüme icralar gelmeye başladı . Babasından ev alacaktım , babasına yüz bin lira para verdim . Babasından da haber yok , kızdan da haber yok . Buna istinaden <TIMEX3 tid="t10" type="DURATION" value="P3Y">üç yıldır</TIMEX3> nafaka ödüyorum " diye iddia etti . 
+
+
+id=1911e8d12b53685e8c9f3c5534600fb7
+
+categories=Haberler,Gündem
+</TEXT>

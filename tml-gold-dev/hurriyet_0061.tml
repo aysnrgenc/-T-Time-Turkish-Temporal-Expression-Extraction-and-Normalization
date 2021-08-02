@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TEXT>
+<TIMEX3 tid="t1" type="DATE" value="2018-03-05">05.03.2018</TIMEX3> - <TIMEX3 tid="t2" type="TIME" value="2018-03-05T11:00">11:00</TIMEX3>
+<TIMEX3 tid="t3" type="TIME" value="2018-03-04TXX">Son dakika</TIMEX3> ! 
+Esad Doğu Guta'nın üçte birini aldı 
+Suriye'de büyük bir insanlık dramının yaşandığı Doğu Guta'da <TIMEX3 tid="t4" type="DATE" value="2018-03-05">bugün</TIMEX3> kritik gelişmeler yaşanıyor . 
+Londra merkezli Suriye İnsan Hakları Gözlemevi , Esad rejiminin Doğu Guta'nın üçte birini kontrolü altına aldığını duyurdu . 
+Rusya ise Doğu Guta'daki muhaliflerin yardım karşılığında sivillerin bölgeden tahliye edilmesini kabul ettiğini öne sürdü . 
+Rusya daha önce <TIMEX3 periodicity="P1D" quant="EVERY" tid="t5" type="SET" value="P1D">her gün</TIMEX3> <TIMEX3 tid="t6" type="DURATION" value="PT5H">beş saat süreyle</TIMEX3> Doğu Guta'da ateşkes uygulanacağını açıklamıştı . 
+Ancak askeri yetkililer , isyancıların sivil halkın bölgeden çıkmasına izin vermediğini söylemişlerdi . 
+Doğu Guta'da yaşanan insani krizin ardından Birleşmiş Milletler Güvenlik Konseyi ( BMGK ) Suriye'de en kısa sürede ateşkes ilan edilmesi kararına varmıştı . 
+Ayrıntılar geliyor ... 
+
+
+id=fbf232e6e77689830676ddc3acb6d30e
+
+categories=Dünya
+</TEXT>

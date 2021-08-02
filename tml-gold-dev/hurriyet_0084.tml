@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<TEXT>
+<TIMEX3 tid="t1" type="DATE" value="2018-03-05">05.03.2018</TIMEX3> - <TIMEX3 tid="t2" type="TIME" value="2018-03-05T09:51">09:51</TIMEX3>
+Baba koptu ! 
+Karaköy - Kadıköy seferleri yapılamıyor 
+İstanbul Büyükşehir Belediyesi Şehir Hatları AŞ'den alınan bilgiye göre , Karaköy İskelesi'nin bağlı olduğu babanın kopması üzerine <TIMEX3 tid="t3" type="DATE" value="2018-03-05T06:20">06.20</TIMEX3><TIMEX3 beginPoint="t3" endPoint="UNKNOWN" tid="t4" type="DURATION" value="PXXXXH">saat 06.20'den itibaren</TIMEX3> yapılması gereken Karaköy - Kadıköy vapur seferleri gerçekleştirilemedi . 
+Şehir Hatları seferlerinin yapılamaması nedeniyle Kadıköy ile Karaköy arasındaki ulaşım , deniz motorlarıyla sağlanıyor . 
+Yetkililer , Karaköy İskelesi'ndeki onarım çalışmalarının devam ettiğini bildirdi . 
+<TIMEX3 tid="t5" type="DATE" value="2018-03-04/2018-03-05">SON 24 SAATTE</TIMEX3> YAŞANANLAR 
+
+
+id=33bb43585a06d20195cda07afb2b3666
+
+categories=Haberler,Gündem
+</TEXT>

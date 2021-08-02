@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TEXT>
+<TIMEX3 tid="t1" type="DATE" value="2018-03-05">05.03.2018</TIMEX3> - <TIMEX3 tid="t2" type="TIME" value="2018-03-05T12:15">12:15</TIMEX3>
+Böyle çöküş görülmedi ! 
+<TIMEX3 tid="t3" type="DURATION" value="P5Y">5 yılda</TIMEX3> <TIMEX3 tid="t4" type="DURATION" value="P50Y">50 yıl</TIMEX3> geriye ... 
+<TIMEX3 tid="t5" type="DATE" value="2016/2018">Son yıllarda</TIMEX3> yaşadığı ekonomik sıkıntılar nedeniyle <TIMEX3 tid="t6" type="DURATION" value="P5Y">5 yıl</TIMEX3> içinde büyük bir çöküş yaşayan Orduspor , kuruluşundan <TIMEX3 tid="t7" type="DATE" value="2068-03-05">50 yıl sonra</TIMEX3> geldiği yere döndü . 
+<TIMEX3 tid="t8" type="DATE" value="2011">2011 yılında</TIMEX3> Süper Lig'e çıkan ve dünyaca ünlü Teknik Direktör Hector Cuper'i takımın başına getirip iyi bir grafik çizen mor beyazlı kulüp , <TIMEX3 alt_value="P1Y-#1" tid="t9" type="DATE">ilk yıl</TIMEX3> ligde tutundu . 
+Süper Lig'de <TIMEX3 alt_value="P1Y-#2" tid="t10" type="DATE">ikinci yılı</TIMEX3> olan <TIMEX3 tid="t11" type="DATE" value="2012">2012</TIMEX3><TIMEX3 tid="t12" type="DATE" value="2013">2013</TIMEX3><TIMEX3 beginPoint="t10" endPoint="t11" tid="t12" type="DURATION" value="PT8784H">2012 - 2013</TIMEX3> sezonunda PTT 1. Lig'e düşen Orduspor , bir daha toparlanamayarak <TIMEX3 periodicity="P1Y" quant="EVERY" tid="t13" type="SET" value="P1Y">her yıl</TIMEX3> bir alt lige düştü . 
+Mor - beyazlı takım önce 2. Lig'e , ardından 3. Lig'e , daha sonra ise Bölgesel Amatör Lig'e ( BAL ) düştü . 
+Süper Lig'de mücadele ettiği dönemde transfer ettiği yerli ve yabancı futbolcuların paralarını ödeyemeyince Bölgesel Amatör Lig'e ( BAL ) eksi 12 puan cezasıyla başlayan Orduspor , <TIMEX3 tid="t14" type="DURATION" value="P21W">21 haftalık</TIMEX3> seri sonunda 1 galibiyet , 5 beraberlik ve 14 yenilgi aldı . 
+16 gol atıp 50 gol yiyen Orduspor , ligin bitmesine <TIMEX3 tid=“t15" type="DURATION" value="P5W">5 hafta</TIMEX3> kala Görelespor'a deplasmanda 3 - 0 yenilince matematiksel olarak eksi 4 puanla Ordu 1. Amatör Lig'e düşmeyi garantiledi . 
+( Yeni Şafak ) 
+Yok böyle bir gol ! 
+Tolisso destan yazdı , Bayern farklı kazandı ... 
+
+
+id=e488af59a5a7d4db45af02134ae50d09
+
+categories=Spor Arena,Futbol
+</TEXT>
