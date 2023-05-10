@@ -2,10 +2,10 @@ cff-version: 1.2.0
 message: "If you use this dataset, please cite it as below."
 authors:
 - family-names: "Uzun"
-  given-names: "Aysenur"
+  given-names: "Ayşenur"
   orcid: "https://orcid.org/0000-0002-6448-5612"
-- family-names: "Tantug"
-  given-names: "A. Cuneyd"
+- family-names: "Tantuğ"
+  given-names: "A. Cüneyd"
   orcid: "https://orcid.org/0000-0003-0524-3397"
 title: "ITUTime: Turkish Temporal Expression Extraction and Normalization"
 version: 1.0.0
@@ -13,13 +13,13 @@ doi: 10.1007/978-3-030-86887-1_7
 date-released: 2021-09-10
 url: "https://link.springer.com/chapter/10.1007/978-3-030-86887-1_7"
 preferred-citation:
-  type: article
+  type: conference-paper
   authors:
   - family-names: "Uzun"
-    given-names: "Aysenur"
+    given-names: "Ayşenur"
     orcid: "https://orcid.org/0000-0002-6448-5612"
-  - family-names: "Tantug"
-    given-names: "A. Cuneyd"
+  - family-names: "Tantuğ"
+    given-names: "A. Cüneyd"
     orcid: "https://orcid.org/0000-0003-0524-3397"
   doi: "10.1007/978-3-030-86887-1_7"
   journal: "International Symposium on Distributed Computing and Artificial Intelligence"
